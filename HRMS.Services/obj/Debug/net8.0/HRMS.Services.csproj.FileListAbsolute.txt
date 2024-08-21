@@ -1,0 +1,12 @@
+C:\HRMS\HRMS.Services\bin\Debug\net8.0\HRMS.Services.deps.json
+C:\HRMS\HRMS.Services\bin\Debug\net8.0\HRMS.Services.dll
+C:\HRMS\HRMS.Services\bin\Debug\net8.0\HRMS.Services.pdb
+C:\HRMS\HRMS.Services\obj\Debug\net8.0\HRMS.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\HRMS\HRMS.Services\obj\Debug\net8.0\HRMS.Services.AssemblyInfoInputs.cache
+C:\HRMS\HRMS.Services\obj\Debug\net8.0\HRMS.Services.AssemblyInfo.cs
+C:\HRMS\HRMS.Services\obj\Debug\net8.0\HRMS.Services.csproj.CoreCompileInputs.cache
+C:\HRMS\HRMS.Services\obj\Debug\net8.0\HRMS.Services.sourcelink.json
+C:\HRMS\HRMS.Services\obj\Debug\net8.0\HRMS.Services.dll
+C:\HRMS\HRMS.Services\obj\Debug\net8.0\refint\HRMS.Services.dll
+C:\HRMS\HRMS.Services\obj\Debug\net8.0\HRMS.Services.pdb
+C:\HRMS\HRMS.Services\obj\Debug\net8.0\ref\HRMS.Services.dll

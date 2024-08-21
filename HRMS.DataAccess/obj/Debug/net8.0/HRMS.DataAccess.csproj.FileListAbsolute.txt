@@ -1,0 +1,12 @@
+C:\HRMS\HRMS.DataAccess\bin\Debug\net8.0\HRMS.DataAccess.deps.json
+C:\HRMS\HRMS.DataAccess\bin\Debug\net8.0\HRMS.DataAccess.dll
+C:\HRMS\HRMS.DataAccess\bin\Debug\net8.0\HRMS.DataAccess.pdb
+C:\HRMS\HRMS.DataAccess\obj\Debug\net8.0\HRMS.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\HRMS\HRMS.DataAccess\obj\Debug\net8.0\HRMS.DataAccess.AssemblyInfoInputs.cache
+C:\HRMS\HRMS.DataAccess\obj\Debug\net8.0\HRMS.DataAccess.AssemblyInfo.cs
+C:\HRMS\HRMS.DataAccess\obj\Debug\net8.0\HRMS.DataAccess.csproj.CoreCompileInputs.cache
+C:\HRMS\HRMS.DataAccess\obj\Debug\net8.0\HRMS.DataAccess.sourcelink.json
+C:\HRMS\HRMS.DataAccess\obj\Debug\net8.0\HRMS.DataAccess.dll
+C:\HRMS\HRMS.DataAccess\obj\Debug\net8.0\refint\HRMS.DataAccess.dll
+C:\HRMS\HRMS.DataAccess\obj\Debug\net8.0\HRMS.DataAccess.pdb
+C:\HRMS\HRMS.DataAccess\obj\Debug\net8.0\ref\HRMS.DataAccess.dll
