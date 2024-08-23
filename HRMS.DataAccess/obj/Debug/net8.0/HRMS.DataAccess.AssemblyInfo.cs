@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HRMS.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0aca5697b4b98018a80655c885875b3ccf15631")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40bb5e6fcee7992c305ef00081a57b0db49d3ac0")]
 [assembly: System.Reflection.AssemblyProductAttribute("HRMS.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HRMS.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
